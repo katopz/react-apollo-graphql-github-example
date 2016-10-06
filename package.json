@@ -11,8 +11,7 @@
     "graphql-tag": "^0.1.13",
     "react": "15.3.2",
     "react-apollo": "^0.5.5",
-    "react-dom": "^15.3.1",
-    "redux": "^3.6.0"
+    "react-dom": "^15.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
