@@ -1,5 +1,5 @@
 # react-apollo-graphql-github-example
-Apollo React example for Github GraphQL API
+Apollo React example for Github GraphQL API with [create-react-app](https://github.com/facebookincubator/create-react-app)
 
 ![](ss.png)
 
@@ -22,7 +22,9 @@ npm i
 ```sh
 npm start
 ```
+> For `VSCode` you can press `F5` to run :)
 
 ## Referer
+- [create-react-app](https://github.com/facebookincubator/create-react-app)
 - [The new GitHub GraphQL API](https://medium.com/apollo-stack/the-new-github-graphql-api-811b005d1b6e#.lcm2mmtn2)
 - [Github GraphQL API React Example](https://medium.com/@katopz/github-graphql-api-react-example-eace824d7b61#.fil01xjsl)

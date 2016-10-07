@@ -76,8 +76,8 @@ class Repository extends React.Component {
     return (<div>
       <h2>{this.state.login}/{this.state.name}</h2>
       <ul>
-        <li>stargazers: {this.state.stargazers.toLocaleString() }</li>
-        <li>watchers: {this.state.watchers.toLocaleString() }</li>
+        <li>stargazers: {this.state.stargazers.toLocaleString()}</li>
+        <li>watchers: {this.state.watchers.toLocaleString()}</li>
       </ul>
     </div>)
   }
