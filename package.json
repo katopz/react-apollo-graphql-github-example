@@ -3,15 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "react-scripts": "^0.7.0"
+    "react-scripts": "^1.0.11"
   },
   "dependencies": {
-    "apollo-client": "^0.5.6",
+    "apollo-client": "^1.9.1",
     "base-64": "^0.1.0",
-    "graphql-tag": "^1.0.0",
-    "react": "^15.4.1",
-    "react-apollo": "^0.6.0",
-    "react-dom": "^15.3.2"
+    "graphql-tag": "^2.4.2",
+    "react": "^15.6.1",
+    "react-apollo": "^1.4.14",
+    "react-dom": "^15.6.1"
   },
   "scripts": {
     "start": "react-scripts start",
