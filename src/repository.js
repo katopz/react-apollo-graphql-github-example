@@ -21,11 +21,11 @@ const GetRepositoryInfoQuery = gql`
 `;
 
 const withInfo = graphql(GetRepositoryInfoQuery, {
-  options: ({ login, name }) => {
+  options: ({ login = "facebook" , name = "react" }) => {
     return {
       variables: {
-        login: 'facebook',
-        name: 'react'
+        login,
+        name
       }
     }
   },
